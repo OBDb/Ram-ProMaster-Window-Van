@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ram_ProMaster"
+
+generations:
+  - name: "First Generation (VF)"
+    start_year: 2014
+    end_year: null
+    description: "The North American Fiat Ducato with the 3.6 L Pentastar V6; the window van is its passenger-glass body."
