@@ -1,0 +1,8 @@
+command_id: DA40.40.221004
+test_cases:
+- expected_values:
+    PROMASTER_BATT_V_BCM: 12.8
+  response: 18DAF1400462100480
+- expected_values:
+    PROMASTER_BATT_V_BCM: 14.4
+  response: 18DAF1400462100490

@@ -1,0 +1,29 @@
+command_id: DA10.10.221955|din=03
+test_cases:
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.6165
+  response: 18DAF110056219551471
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.6915
+  response: 18DAF110056219551507
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.697
+  response: 18DAF110056219551512
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.6995
+  response: 18DAF110056219551517
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.76
+  response: 18DAF110056219551590
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.7925
+  response: 18DAF1100562195515D1
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.8295
+  response: 18DAF11005621955161B
+- expected_values:
+    PROMASTER_BATT_V_ECU: 2.9435
+  response: 18DAF1100562195516FF
+- expected_values:
+    PROMASTER_BATT_V_ECU: 3.0385
+  response: 18DAF1100562195517BD
