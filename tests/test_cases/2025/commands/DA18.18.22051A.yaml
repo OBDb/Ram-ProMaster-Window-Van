@@ -1,0 +1,13 @@
+command_id: DA18.18.22051A
+test_cases:
+- expected_values:
+    PROMASTER_GEAR_DESIRED: 1
+  response: 18DAF1180462051A10
+- expected_values:
+    PROMASTER_GEAR_CURRENT: 7
+    PROMASTER_GEAR_DESIRED: 7
+  response: 18DAF1180462051A77
+- expected_values:
+    PROMASTER_GEAR_CURRENT: null
+    PROMASTER_GEAR_DESIRED: null
+  response: 18DAF1180462051ADD

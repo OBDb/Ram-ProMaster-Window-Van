@@ -1,0 +1,8 @@
+command_id: DA18.18.2204FE
+test_cases:
+- expected_values:
+    PROMASTER_ATF_T_4THGEN: 25
+  response: 18DAF118046204FE41
+- expected_values:
+    PROMASTER_ATF_T_4THGEN: 89
+  response: 18DAF118046204FE81
