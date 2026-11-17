@@ -89,7 +89,7 @@
   ]},
 { "hdr": "DA10", "rax": "10", "din": "03", "cmd": {"22": "195A"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
-    {"id": "PROMASTER_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -100, "div": 10, "add": -3276.8, "unit": "kilopascal" }, "name": "Turbo boost pressure", "suggestedMetric": "absoluteBoostPressure"}
+    {"id": "PROMASTER_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -100, "div": 10, "add": -3276.8, "unit": "kilopascal" }, "name": "Turbo boost pressure"}
   ]},
 { "hdr": "DA18", "rax": "18", "cmd": {"22": "04FE"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
